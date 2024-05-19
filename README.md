@@ -1,0 +1,1 @@
+Faculty Feedback is the feedback system in our college.So that we will collect the feedback for the lecturers from our students.After that only the admin should should watch the feedback of all members. On clicking sort button it will sort according to the percentages.
